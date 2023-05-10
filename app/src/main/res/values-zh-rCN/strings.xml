@@ -1,7 +1,7 @@
 <resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
 
     <!-- App -->
-    <string name="app_name">影视</string>
+    <string name="app_name">酷影视</string>
     <string name="app_exit">再按一次返回键退出</string>
 
     <!-- Vod -->
@@ -21,7 +21,7 @@
     <string name="detail_type">类型：<xliff:g name="name">%s</xliff:g></string>
     <string name="detail_director">导演：<xliff:g name="name">%s</xliff:g></string>
     <string name="detail_actor">演员：<xliff:g name="name">%s</xliff:g></string>
-    <string name="detail_content">简介：<xliff:g name="name">%s</xliff:g></string>
+    <string name="detail_content">声明：本片片源来自于互联网爬虫技术，本APP编译者及网站未进行存储和分发，仅限用于技术研究。简介：<xliff:g name="name">%s</xliff:g></string>
     <string name="detail_desc">简介</string>
 
     <!-- Keep -->
