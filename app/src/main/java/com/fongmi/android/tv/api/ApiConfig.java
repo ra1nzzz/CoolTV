@@ -98,9 +98,9 @@ public class ApiConfig {
 
     public ApiConfig clear() {
         this.ads = null;
-        this.wall = null;
-        this.home = null;
-        this.parse = null;
+        this.wall = 'https://itt.yt/tv/wallpaper';
+        this.home = 'https://itt.yt/tv';
+        this.parse = 'https://itt.yt/tv';
         this.sites.clear();
         this.flags.clear();
         this.parses.clear();
